@@ -1,0 +1,9 @@
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\bin\Debug\UcakSavar.exe.config
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\bin\Debug\UcakSavar.exe
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\bin\Debug\UcakSavar.pdb
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\obj\Debug\UcakSavar.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\obj\Debug\UcakSavar.Form1.resources
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\obj\Debug\UcakSavar.Properties.Resources.resources
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\obj\Debug\UcakSavar.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\obj\Debug\UcakSavar.exe
+C:\Users\Wissen\Documents\Canan Türkmen\UcakSavar\UcakSavar\obj\Debug\UcakSavar.pdb
